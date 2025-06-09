@@ -78,7 +78,7 @@ public class ArthurAlexandre {
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/arthursantosbs/SistemaVendasPlante">
+  <a href="https://github.com/arthursantosbs/sistemaVendasPlante">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=projeto-vendas-plante&theme=dark" />
   </a>
 </div>
