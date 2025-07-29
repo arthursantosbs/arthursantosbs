@@ -84,11 +84,11 @@ public class ArthurAlexandre {
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/arthursantosbs/projeto-vendas-plante">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=projeto-vendas-plante&theme=dark" />
+  <a href="https://github.com/arthursantosbs/SistemaVendas2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=SistemaVendas2.0&theme=dark" />
   </a>
-  <a href="https://github.com/arthursantosbs/api-cadastro-clientes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=api-cadastro-clientes&theme=dark" />
+  <a href="https://github.com/arthursantosbs/desafioCadastroCarrilho">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=desafioCadastroCarrilho&theme=dark" />
   </a>
 </div>
 
