@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/arthur-alexandre-4088952b1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/dev.arthurs">
+  <a href="https://www.instagram.com/arthursantosbs">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:arthursantosbs@gmail.com">
@@ -30,7 +30,7 @@
 
 ```java
 public class ArthurAlexandre {
-    private final String[] skills = {"Java", "Spring", "MySQL", "JUnit", "Docker", "GitHub Actions", "REST APIs"};
+    private final String[] skills = {"Java", "Spring", "MySQL",  "Docker"};
     private final String[] goals = {"Liderança Técnica", "Arquitetura de Software", "Mentoria"};
     
     public String getCurrentFocus() {
@@ -66,9 +66,6 @@ public class ArthurAlexandre {
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65" /><br>Spring
       </td>
       <td align="center" width="96">
-        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="65" height="65" /><br>JUnit
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>GitHub
       </td>
       <td align="center" width="96">
@@ -76,9 +73,6 @@ public class ArthurAlexandre {
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/><br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="65" height="65"/><br>Bash
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br>Python
