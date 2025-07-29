@@ -69,9 +69,6 @@ public class ArthurAlexandre {
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" /><br>Git
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/><br>Docker
       </td>
       <td align="center" width="96">
