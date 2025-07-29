@@ -113,14 +113,13 @@ public class ArthurAlexandre {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Estatísticas GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthursantosbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursantosbs&layout=compact&langs_count=7&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthursantosbs&theme=tokyonight" alt="arthursantosbs" />
+  <img src="https://streak-stats.demolab.com/?user=arthursantosbs&theme=tokyonight" alt="arthursantosbs" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=arthursantosbs&theme=react-dark" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=arthursantosbs&theme=react-dark" />
 </div>
 
 <!-- Badge de conquistas -->
