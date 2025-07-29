@@ -1,6 +1,6 @@
-<!-- Cabeçalho com animação -->
+<!-- Cabeçalho animado com apresentação -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+Arthur+Alexandre;Desenvolvedor+Java;Futuro+Líder+Técnico&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+Arthur+Alexandre;Desenvolvedor+Java;Futuro+Líder+Técnico;Apaixonado+por+tecnologia+e+inovação!&font=Fira%20Code&center=true&width=400&height=50&duration=3500&pause=1000">
 </div>
 
 <p align="center">
@@ -9,11 +9,18 @@
 
 <!-- Redes Sociais -->
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-alexandre-4088952b1)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.arthurs)
-
-  
+  <a href="https://linkedin.com/in/arthur-alexandre-4088952b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/dev.arthurs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:arthursantosbs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/arthursantosbs">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 <!-- Divisor estilizado -->
@@ -23,18 +30,23 @@
 
 ```java
 public class ArthurAlexandre {
-    private final String[] skills = {"Java", "Spring", "MySQL", "JUnit"};
-    private final String[] goals = {"Liderança Técnica", "Arquitetura de Software"};
+    private final String[] skills = {"Java", "Spring", "MySQL", "JUnit", "Docker", "GitHub Actions", "REST APIs"};
+    private final String[] goals = {"Liderança Técnica", "Arquitetura de Software", "Mentoria"};
     
     public String getCurrentFocus() {
-        return "Desenvolvendo soluções robustas e escaláveis em Java";
+        return "Criando soluções robustas, escaláveis e testáveis em Java";
     }
     
     public String getFutureVision() {
-        return "Comandar equipes e ideias inovadoras no desenvolvimento de software";
+        return "Inspirar, liderar equipes e impactar o mundo com tecnologia inovadora";
     }
 }
 ```
+
+- 🏆 Estudante e praticante de Clean Code & boas práticas.
+- 💬 Apaixonado por compartilhar conhecimento e ajudar a comunidade.
+- 👨‍🏫 Em busca de oportunidades para mentorar e crescer junto com outros devs.
+- 🚀 Explorando tecnologias Cloud, DevOps e automações.
 
 <!-- Divisor estilizado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,28 +57,31 @@ public class ArthurAlexandre {
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /><br>Java
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65" />
-        <br>Spring
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="65" height="65" /><br>Spring
       </td>
       <td align="center" width="96">
-        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="65" height="65" />
-        <br>JUnit
+        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="65" height="65" /><br>JUnit
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
-        <br>Git
+        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" /><br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/><br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="65" height="65"/><br>Bash
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br>Python
       </td>
     </tr>
   </table>
@@ -78,25 +93,30 @@ public class ArthurAlexandre {
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/arthursantosbs/sistemaVendasPlante">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=projeto-vendas-plante&theme=dark" />
+  <a href="https://github.com/arthursantosbs/projeto-vendas-plante">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=projeto-vendas-plante&theme=dark" />
+  </a>
+  <a href="https://github.com/arthursantosbs/api-cadastro-clientes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthursantosbs&repo=api-cadastro-clientes&theme=dark" />
   </a>
 </div>
 
 ### Sistema de Vendas Plante
-> Um sistema de gerenciamento de vendas desenvolvido em Java puro com orientação a objetos, focado em eficiência e experiência do usuário.
+> Plataforma de gerenciamento de vendas desenvolvida em Java puro, orientada a objetos, focada em eficiência e experiência do usuário.
 
-<!-- Você pode adicionar mais projetos conforme for desenvolvendo -->
+### API Cadastro de Clientes
+> Uma API RESTful para cadastro de clientes usando Java + Spring Boot e MySQL, com autenticação JWT e testes automatizados.
 
 <!-- Divisor estilizado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Objetivos Profissionais
 
-- 🔍 Aprofundar conhecimentos em arquitetura de software
-- 👥 Desenvolver habilidades de liderança técnica
-- 🌐 Contribuir para projetos de código aberto
-- 🚀 Liderar equipes de desenvolvimento de software
+- 🔍 Aprofundar conhecimentos em arquitetura de software & design patterns
+- 👥 Desenvolver habilidades de liderança técnica e mentoria
+- 🌐 Contribuir para projetos de código aberto regulares
+- 🚀 Liderar equipes de desenvolvimento para criar soluções inovadoras
+- 💡 Participar de eventos, hackathons e comunidades tech
 
 <!-- Divisor estilizado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -106,30 +126,37 @@ public class ArthurAlexandre {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthursantosbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursantosbs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthursantosbs&theme=tokyonight" alt="arthursantosbs" />
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=arthursantosbs&theme=react-dark" />
 </div>
 
-<!-- Gráfico de contribuições -->
+<!-- Badge de conquistas -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=arthursantosbs&theme=react-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arthursantosbs&theme=darkhub&margin-w=10&no-frame=true&column=7" />
 </div>
 
 <!-- Divisor estilizado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Citação -->
+<!-- Citação motivacional -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <p align="center">
-  <i>"O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."</i> - Robert C. Martin
+  <i>“O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas.”</i> <br/> – Robert C. Martin
 </p>
 
-<!-- Rodapé -->
+<!-- Rodapé animado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+<!-- Dicas extras para você personalizar:
+- Adicione badges do seu perfil no GitHub, como: [![GitHub followers](https://img.shields.io/github/followers/arthursantosbs?label=Followers&style=social)](https://github.com/arthursantosbs)
+- Use GIFs para deixar mais divertido!
+- Insira conquistas, certificados ou cursos relevantes.
+- Compartilhe artigos, vídeos ou palestras que você participou.
+-->
